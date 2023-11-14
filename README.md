@@ -1,2 +1,2 @@
 # expo-sandbox
-Sandbox applications for a React Native app using Expo
+Sandbox application for a React Native app using Expo
